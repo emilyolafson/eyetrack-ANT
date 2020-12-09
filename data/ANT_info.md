@@ -5,6 +5,8 @@ The arrow appears above or below the fixation point (centre of screen) and may o
 For one trial: a cue is presented (center cue, double cue, spatial cue, or no cue), and then after a delay, the target (arrows) are presented, and the subject quickly presses the left or right arrow keys to indicate the direction that the center arrow is pointing. The amount of time it takes the subject to press the correct arrow key is the RT for that trial.
 The arrows will either be presented congruently (flanking arrows facing the same direction as center arrow) or incongruently (flanking arrows facing random directions relative to center arrow).
 
+![](ANT_procedure.png)
+
 The task examines three components of the attention network (alerting, orienting, and executive) separately (more in /papers/Fan_etal).
 
 The **alerting effect** is calculated by subtracting the mean RT of the double-cue conditions from the mean RT of the no-cue conditions.
