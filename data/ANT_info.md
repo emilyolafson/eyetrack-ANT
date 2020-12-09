@@ -10,5 +10,7 @@ The arrows will either be presented congruently (flanking arrows facing the same
 The task examines three components of the attention network (alerting, orienting, and executive) separately (more in /papers/Fan_etal).
 
 The **alerting effect** is calculated by subtracting the mean RT of the double-cue conditions from the mean RT of the no-cue conditions.
+
 The **orienting effect** is calculated by subtracting the mean RT of the spatial cue conditions from the mean RT of the center cue conditions.
+
 The **executive effect** is calculated by subtracting the mean RT of all the congruent flanking conditions from the mean RT of the incongruent flanking conditions. 
