@@ -9,3 +9,10 @@ The data consists of EEG outputs in the form of .edf files which include pupil d
 **Skills:** Python or MATLAB skills at any level, statistics, familiarity with EEG
 
 Join the [Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/eyetracking-project) for discussion and pop into the [Jitsi room](https://meet.jit.si/EyeTrackingProject) to speak quickly to the project lead (Emily)
+
+**How can you get started on this project?**
+- Join the Mattermost channel
+- Read the project document, which has details about the data and specific goals
+- Get started on one of the Issues! 
+
+If you have any questions during the Brainhack, you can post them in the Mattermost channel. Feel free to create Issues if you are stuck, and close Issues as you complete them.
