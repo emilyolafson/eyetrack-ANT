@@ -1,8 +1,11 @@
-Overview of the project
-In this project we will be analysing eye-tracking EEG data that was recorded during the Attention Network Task, a paradigm used to assess different components of attention. Each of the primary attention systems—alerting, orienting, and executive control monitoring—involves salient autonomic correlates as evidenced by changes in reactive pupil dilation and blinks (Geva et al. 2013).
+**Title:** Relating eye-tracking EEG metrics to attention network systems
 
-In the eye-tracking data, several biological variables are measured:
-Pupil dilation
-Blinks
-Saccades (quick, simultaneous movement of both eyes between two or more phases of fixation in the same direction)
+**Project lead:** Emily Olafson, mattermost: @emilyo email: olafsonemily@gmail.com
 
+**Project Description:** This project involves analysis eye-tracking EEG data that was recorded during the Attention Network Task, a paradigm used to assess different components of attention. Each of the primary attention systems—alerting, orienting, and executive control monitoring—involves salient autonomic correlates as evidenced by changes in reactive pupil dilation and blinks. The goal of the project will be to understand how physiological correlates of attention vary in healthy individuals and in patients with traumatic brain injury (TBI).
+
+The data consists of EEG outputs in the form of .edf files which include pupil dilation and eye-blinks, as well as accompanying behavioural data (Attention Network Task) including measures like reaction time. The data was collected by Dr. Sudhin Shah at Weill Cornell Medicine and needs to be preprocessed (see Issues)
+
+**Skills:** Python or MATLAB skills at any level, statistics, familiarity with EEG
+
+Join the [Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/eyetracking-project) for discussion and pop into the [Jitsi room](https://meet.jit.si/EyeTrackingProject) to speak quickly to the project lead (Emily)
