@@ -1,0 +1,7 @@
+name: eyetrack
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - pyedflib
