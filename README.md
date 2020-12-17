@@ -1,4 +1,4 @@
-**Title:** Relating eye-tracking EEG metrics to attention network systems
+**Title:** Relating eye-tracking metrics to attention network systems
 
 **Project lead:** Emily Olafson, mattermost: @emilyo email: olafsonemily@gmail.com
 
