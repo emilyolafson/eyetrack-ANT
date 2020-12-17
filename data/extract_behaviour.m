@@ -89,4 +89,4 @@ while ischar(line1)
 end
 fclose(fid);
 
-save master_data.mat metrics
+save(strcat(behav_dir, 'master_data.mat'), 'metrics')
